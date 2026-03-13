@@ -172,9 +172,3 @@ Most prior studies treat app reviews as a static corpus. This research introduce
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
-
-## 👤 Author
-
-**Satria Imawan**  
-Information Systems — Universitas Negeri Semarang  
-📧 [LinkedIn](https://linkedin.com/in/your-profile) | 🐙 [GitHub](https://github.com/your-username)
